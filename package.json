@@ -12,8 +12,8 @@
   "repository": "https://github.com/adamdicarlo/download-slack-emoji",
   "dependencies": {
     "chalk": "^1.1.3",
-    "cheerio": "^0.22.0",
     "got": "^6.7.1",
+    "node-fetch": "^2.6.0",
     "promise-limit": "^2.3.0"
   }
 }
