@@ -1,8 +1,8 @@
 {
-  "name": "slack-emoji-downloader",
+  "name": "download-slack-emoji",
   "version": "1.0.0",
   "bin": {
-    "slack-emoji-downloader": "./index.js"
+    "download-slack-emoji": "./index.js"
   },
   "preferGlobal": true,
   "description": "Download all emoji from a Slack workspace",
